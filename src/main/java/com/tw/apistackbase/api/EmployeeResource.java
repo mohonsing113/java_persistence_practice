@@ -1,7 +1,6 @@
 package com.tw.apistackbase.api;
 
 import com.tw.apistackbase.core.Employee;
-import com.tw.apistackbase.application.EmployeeService;
 import com.tw.apistackbase.core.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
